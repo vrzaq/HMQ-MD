@@ -1,0 +1,69 @@
+{
+  "name": "highest-meta-md",
+  "version": "9.0-pro",
+  "description": "razzaq multi device, original base Arifi Razzaq",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib",
+    "event": "event"
+  },
+  "scripts": {
+    "test": "echo \"error: no test specified\" && exit 1",
+    "start": "node index.js --pairing-code"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrzaq/razzaq-md.git"
+  },
+  "keywords": [
+    "bot-whatsapp"
+  ],
+  "author": {
+    "name": "arifi razzaq",
+    "email": "vr.zaq1@gmail.com",
+    "url": "https://youtube.com/@khirazzdev?si=pWE56RblRs85a_Bp"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrzaq/razzaq-md/issues"
+  },
+  "homepage": "https://github.com/vrzaq/razzaq-md#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "awesome-phonenumber": "^6.4.0",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "csv-writer": "^1.6.0",
+    "fb-video-downloader": "^1.0.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "http": "^0.0.1-security",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.13",
+    "moment-timezone": "^0.5.45",
+    "node-cron": "^3.0.3",
+    "node-notifier": "^10.0.1",
+    "node-printer": "^1.0.4",
+    "node-webpmux": "^3.2.0",
+    "openai": "^4.28.4",
+    "pdfkit": "^0.14.0",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "rxjs": "^7.8.1",
+    "svg2img": "^1.0.0-beta.2",
+    "tesseract.js": "^5.0.5",
+    "uuid": "^9.0.1",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.23.3"
+  },
+  "presets": [
+    "@babel/preset-react",
+    "@babel/preset-env"
+  ]
+}

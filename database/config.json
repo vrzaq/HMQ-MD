@@ -1,0 +1,56 @@
+{
+  "pairingNumber": "6283193905842",
+  "storeName": "Razzaq Market",
+  "self": false,
+  "bannerMenu": "default",
+  "storeGLink": "https://chat.whatsapp.com/FsRrkgDAUiTIaMJky1ar3K",
+  "prefix": {
+    "singlePrefix": "#",
+    "noPrefix": "",
+    "multiPrefx": true
+  },
+  "auto": {
+    "read": true,
+    "post": false,
+    "autoResponse": true
+  },
+  "chat": 896393,
+  "storeGID": "120363194016202398@g.us",
+  "authorNumber": [
+    "6283193905842"
+  ],
+  "mods": [
+    "6283193905842"
+  ],
+  "prems": [
+    "6283193905842"
+  ],
+  "sourceUrl": "https://whatsapp.com/channel/0029VaQvMcp4o7qSiKGs0Y2D",
+  "database": [],
+  "products": [],
+  "payment": [],
+  "apikey": [
+    {
+      "https://api.zahwazein.xyz": "",
+      "https://skizo.tech": "",
+      "https://api.openai.com": "",
+      "https://api.betabotz.org": "",
+      "https://shot.screenshotapi.net": "",
+      "https://api.apiflash.com": ""
+    }
+  ],
+  "authorName": "Arifi Razzaq",
+  "botName": "Highest Meta Quarter MD",
+  "noCommandNotice": false,
+  "styleMenu": {
+    "prefix": "╭─",
+    "line": "│",
+    "closing": "╰"
+  },
+  "openCommandAsGroup": false,
+  "autobcgcEnabled": false,
+  "menuType": "IMAGE",
+  "font": "smallcaps",
+  "analyzeTag": false,
+  "isEnable": true
+}
